@@ -1,0 +1,11 @@
+
+spring:
+  webflux:
+    hiddenmethod:
+      filter:
+        enabled: true
+logging:
+  level:
+    org.springframework.data: debug
+
+
